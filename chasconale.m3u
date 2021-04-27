@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 ,canal xxx
+http://www.iptvdinmax.eu:2052/live/Aitor/Aitor/132160.m3u8
+
+#EXTINF:-1 ,canal xxxx
+http://www.iptvdinmax.eu:2052/live/Aitor/Aitor/132159.m3u8
+
+#EXTINF:-1 tvg-id="CL CDF BASICO" tvg-name="TNT Sports 3 (CDF Básico)" tvg-logo="http://logos.iptv.wtf/deportes/cdfb.png" group-title="Deportes",TNT Sports 3 (CDF Básico)
+http://iptv.deluxeplay.live:80/live/luis/luis123/6816.m3u8
+
+#EXTINF:-1 tvg-id="CL CDF HD" tvg-name="TNT Sports HD (CDF Full HD)" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",TNT Sports HD (CDF Full HD)
+http://iptv.deluxeplay.live:80/live/luis/luis123/16.m3u8
+
+#EXTINF:-1 tvg-id="CL CDF HD" tvg-name="TNT Sports HD (CDF Full HD) *" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",TNT Sports HD (CDF Full HD) *
+http://iptv.deluxeplay.live:80/live/luis/luis123/18.m3u8
+
+#EXTINF:-1 tvg-id="CL CDF HD" tvg-name="TNT Sports HD (CDF HD)" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",TNT Sports HD (CDF HD)
+http://iptv.deluxeplay.live:80/live/luis/luis123/17.m3u8
+
+#EXTINF:-1 tvg-id="CL CDF HD" tvg-name="TNT Sports HD (CDF HD) *" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",TNT Sports HD (CDF HD) *
+http://iptv.deluxeplay.live:80/live/luis/luis123/6817.m3u8
+
+#EXTINF:-1 tvg-id="CL CDF PREMIUM" tvg-name="TNT Sports 2 (CDF Premium)" tvg-logo="http://logos.iptv.wtf/deportes/cdfp.png" group-title="Deportes",TNT Sports 2 (CDF Premium)
+http://iptv.deluxeplay.live:80/live/luis/luis123/6818.m3u8
+
+#EXTINF:-1 tvg-id="CL CDF HD" tvg-name="CDF SD" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",CDF SD
+http://iptv.deluxeplay.live:80/live/luis/luis123/6822.m3u8
+
+#EXTINF:-1 tvg-id="CL CDO BASICO" tvg-name="CDO Básico" tvg-logo="http://logos.iptv.wtf/deportes/cdo.png" group-title="Deportes",CDO Básico
+http://iptv.deluxeplay.live:80/live/luis/luis123/34.m3u8
+
+#EXTINF:-1 tvg-id="CL CDO BASICO" tvg-name="CDO Básico HD" tvg-logo="http://logos.iptv.wtf/deportes/cdo.png" group-title="Deportes",CDO Básico HD
+http://iptv.deluxeplay.live:80/live/luis/luis123/35.m3u8
+
+#EXTINF:-1 tvg-id="CL CDO PREMIUM" tvg-name="CDO Play HD" tvg-logo="http://logos.iptv.wtf/deportes/cdop.png" group-title="Deportes",CDO Play HD
+http://iptv.deluxeplay.live:80/live/luis/luis123/36.m3u8
